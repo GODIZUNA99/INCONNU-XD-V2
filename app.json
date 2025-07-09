@@ -1,9 +1,9 @@
 
 {
   
-  "name": "INCONNNU-XD-V2",
+  "name": "IZUNA-XD-V2",
   "description": "Best Whatsapp bot made by inconnu boy tech",
-  "logo":"https://files.catbox.moe/959dyk.jpg",
+  "logo":"https://files.catbox.moe/ck2bb2.jpg",
   "keywords": [
     "whatsapp bot"
   ],
@@ -18,11 +18,11 @@
     "MODE": {
       "description": "Enter public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. Or leave blank",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_READ": {
@@ -37,12 +37,12 @@
     },
     "AUTO_RECORDING": {
       "description": "Enter true if you want bot to show recording audio. Or leave blank",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online. Or leave blank",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_BLOCK": {
